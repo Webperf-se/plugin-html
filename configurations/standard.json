@@ -1,0 +1,32 @@
+{
+    "rules": {
+        "attr-spacing": "error",
+        "attribute-allowed-values": "error",
+        "attribute-misuse": "error",
+        "close-attr": "error",
+        "close-order": "error",
+        "deprecated": "warn",
+        "deprecated-rule": "warn",
+        "doctype-html": "warn",
+        "element-name": "warn",
+        "element-permitted-content": "warn",
+        "element-permitted-occurrences": "warn",
+        "element-permitted-order": "warn",
+        "element-permitted-parent": "warn",
+        "element-required-attributes": "error",
+        "element-required-content": "error",
+        "map-dup-name": "error",
+        "map-id-name": "error",
+        "no-deprecated-attr": "error",
+        "no-dup-attr": "error",
+        "no-dup-id": "error",
+        "no-multiple-main": "warn",
+        "no-raw-characters": "error",
+        "no-unused-disable": "warn",
+        "script-element": "error",
+        "unrecognized-char-ref": "error",
+        "valid-autocomplete": "error",
+        "valid-id": "error",
+        "void-content": "error"
+    }
+}
