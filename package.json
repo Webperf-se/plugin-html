@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "jsdom": "26.1.0",
-    "html-validate": "9.5.3",
+    "html-validate": "9.5.5",
     "@sitespeed.io/plugin": "1.0.0"
   },
   "scripts": {
