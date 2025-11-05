@@ -26,13 +26,13 @@
     "node": ">=20.x"
   },
   "devDependencies": {
-    "eslint": "9.37.0",
+    "eslint": "9.39.0",
     "serve": "14.2.5",
     "serve-handler": "6.1.6"
   },
   "dependencies": {
     "jsdom": "27.1.0",
-    "html-validate": "10.1.2",
+    "html-validate": "10.3.0",
     "@sitespeed.io/plugin": "1.0.0"
   },
   "scripts": {
