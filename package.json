@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "jsdom": "27.1.0",
-    "html-validate": "10.3.1",
+    "html-validate": "10.4.0",
     "@sitespeed.io/plugin": "1.0.0"
   },
   "scripts": {
