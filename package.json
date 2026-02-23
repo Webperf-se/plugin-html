@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "jsdom": "28.1.0",
-    "html-validate": "10.8.0",
+    "html-validate": "10.9.0",
     "@sitespeed.io/plugin": "1.0.0"
   },
   "scripts": {
