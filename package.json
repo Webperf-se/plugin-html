@@ -1,6 +1,6 @@
 {
   "name": "plugin-html",
-  "version": "2026.6.1",
+  "version": "2026.7.0",
   "type": "module",
   "exports": "./lib/index.js",
   "publishConfig": {
